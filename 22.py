@@ -1,0 +1,1 @@
+# 50 – Soma dos pares
