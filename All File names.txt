@@ -1,0 +1,77 @@
+  Age Checker
+  ATM Simulator
+  Average Age Checker
+  Batch File Renamer
+  Check if Site is accessible
+  Customer registration
+  Filter for SQL
+  Filter out duplicates
+  Multiplication Table v2
+  Multiplication Table v3
+  Prime Number Check
+  Read csv file and turn into excel simple
+  URL Shortener
+ Age and Gender Statistics
+ Arithmetic Progression
+ Array in Python
+ Brazilian Football Teams Analysis
+ Bulletin with composite lists
+ Car Age Classifier
+ Category Calculator
+ Counting evens
+ Counting Function
+ Currency
+ Customer registration
+ Dice Game in Python
+ dissecting a variable
+ Even and odd lists
+ Even Number Counter
+ even_odd_checker
+ Factorial function
+ Finding the Minimum and Maximum of Three Numbers
+ Function that calculates area
+ Function that discovers the highest number
+ Functions for sorting and summing
+ Grades Evaluation
+ Guess the number
+ Highest and Lowest Weight in a Sequence
+ IMC Calculator and Classification
+ Interactive helping system in Python
+ leap_year_checker
+ loan_calculator
+ Merging dictionaries and lists
+ Message with adaptive size
+ Military Enlistment Checker
+ Multiplication Table v2
+ New Years Countdown
+ Number Comparison
+ Number Guessing Game
+ Number List Stats
+ Number Operations Menu
+ Number to Word Converter
+ number_base_converter
+ Palindrome Detector
+ Parentheses Validator
+ Player Goals
+ Predictions for the lottery
+ Product Price List
+ Product Purchasing Program
+ Random Tuple Values Analysis
+ Record and Compare Weights
+ Rock-Paper-Scissors Game
+ salary_increase_calculator
+ Separating Even and Odd Numbers
+ Site is accessible
+ Soccer Player Register
+ Sorted List Creator
+ Speeding Fine Calculator
+ Student Situation Checker
+ Sum of Odd Multiples of Three
+ Travel Fare Calculator
+ Tuple Value Analysis
+ Validating data input in python
+ Validating Gender Input
+ Vote functions
+ Worker Registration in Python
+ Unique Number List Maker
+ Vowel Finder
